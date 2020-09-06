@@ -1,0 +1,116 @@
+[
+	{
+		"Id": 1,
+		"Question": "How do you rate our services?",
+		"Answers": [
+			{
+				"Answer": "Bad",
+				"point": 1,
+				"icon": "emoji-angry",
+				"color": "danger"
+			},
+			{
+				"Answer": "Satisfatory",
+				"point": 4,
+				"icon": "emoji-expressionless",
+				"color": "warning"
+			},
+			{
+				"Answer": "Good",
+				"point": 8,
+				"icon": "emoji-smile",
+				"color": "primary"
+			},
+			{
+				"Answer": "Excelent",
+				"point": 10,
+				"icon": "award",
+				"color": "success"
+			}
+		]
+	},
+	{
+		"Id": 2,
+		"Question": "How do you classify the service 2",
+		"Answers": [
+			{
+				"Answer": "Bad",
+				"point": 1,
+				"icon": "emoji-angry",
+				"color": "danger"
+			},
+			{
+				"Answer": "Satisfatory",
+				"point": 4
+			},
+			{
+				"Answer": "Good",
+				"point": 8,
+				"icon": "emoji-smile",
+				"color": "primary"
+			},
+			{
+				"Answer4": "Excelent",
+				"point": 10
+			}
+		]
+	},
+	{
+		"Id": 3,
+		"Question": "How do you classify the service 3",
+		"Answers": [
+			{
+				"Answer": "Bad",
+				"point": 1,
+				"icon": "emoji-angry",
+				"color": "danger"
+			},
+			{
+				"Answer": "Satisfatory",
+				"point": 4,
+				"icon": "emoji-expressionless",
+				"color": "warning"
+			},
+			{
+				"Answer": "Good",
+				"point": 8,
+				"icon": "emoji-smile",
+				"color": "primary"
+			},
+			{
+				"Answer": "Excelent",
+				"point": 10
+			}
+		]
+	},
+	{
+		"Id": 4,
+		"Question": "How do you classify the service 4",
+		"Answers": [
+			{
+				"Answer": "Bad",
+				"point": 1,
+				"icon": "emoji-angry",
+				"color": "danger"
+			},
+			{
+				"Answer": "Satisfatory",
+				"point": 4,
+				"icon": "emoji-expressionless",
+				"color": "warning"
+			},
+			{
+				"Answer": "Good",
+				"point": 8,
+				"icon": "emoji-smile",
+				"color": "primary"
+			},
+			{
+				"Answer": "Excelent",
+				"point": 10,
+				"icon": "award",
+				"color": "success"
+			}
+		]
+	}
+]
