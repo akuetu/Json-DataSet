@@ -41,7 +41,9 @@
 			},
 			{
 				"Answer": "Satisfatory",
-				"point": 4
+				"point": 4,
+				"icon": "emoji-expressionless",
+				"color": "warning"
 			},
 			{
 				"Answer": "Good",
@@ -51,7 +53,9 @@
 			},
 			{
 				"Answer": "Excelent",
-				"point": 10
+				"point": 10,
+				"icon": "award",
+				"color": "success"
 			}
 		]
 	},
@@ -79,7 +83,9 @@
 			},
 			{
 				"Answer": "Excelent",
-				"point": 10
+				"point": 10,
+				"icon": "award",
+				"color": "success"
 			}
 		]
 	},
