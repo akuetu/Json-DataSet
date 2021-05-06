@@ -12,6 +12,28 @@
                 "Huston Rocket"
               ],
               "answer": "Huston Rocket"
+            },
+            {
+              "num": 2,
+              "question": "Which one is correct for name in XPT?",
+              "options": [
+                "New York Bulls",
+                "Los Angeles Kings",
+                "Golden State Warriros",
+                "RPT"
+              ],
+              "answer": "RPT"
+            },
+            {
+              "num": 3,
+              "question": "Which one is US Capital?",
+              "options": [
+                "New York Bulls",
+                "Los Angeles Kings",
+                "Golden State Warriros",
+                "Washington"
+              ],
+              "answer": "Washington"
             }
           ]
         },
