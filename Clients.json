@@ -23,28 +23,28 @@
 				"Item": "raspberries",
 				"Quantity": 7,
 				"LotNumber": 20860,
-				"Qtd":2
+				"Price":2
 			},
 			{
 				"OrderId": 800006,
 				"Item": "passion Fruit",
 				"Quantity": 7,
 				"LotNumber": 73734,
-				"Qtd":20
+				"Price":20
 			},
 			{
 				"OrderId": 800007,
 				"Item": "peaches",
 				"Quantity": 4,
 				"LotNumber": 79298,
-				"Qtd":10
+				"Price":10
 			},
 			{
 				"OrderId": 800008,
 				"Item": "pear",
 				"Quantity": 7,
 				"LotNumber": 48366,
-				"Qtd":8
+				"Price":8
 			}
 		]
 	},
@@ -65,35 +65,35 @@
 				"Item": "kiwi",
 				"Quantity": 1,
 				"LotNumber": 44865,
-				"Qtd":7
+				"Price":7
 			},
 			{
 				"OrderId": 800010,
 				"Item": "orange",
 				"Quantity": 3,
 				"LotNumber": 57017,
-				"Qtd":8
+				"Price":8
 			},
 			{
 				"OrderId": 800011,
 				"Item": "banana",
 				"Quantity": 1,
 				"LotNumber": 35475,
-				"Qtd":5
+				"Price":5
 			},
 			{
 				"OrderId": 800012,
 				"Item": "pear",
 				"Quantity": 10,
 				"LotNumber": 92867,
-				"Qtd":6
+				"Price":6
 			},
 			{
 				"OrderId": 800013,
 				"Item": "strawberry",
 				"Quantity": 6,
 				"LotNumber": 93577,
-				"Qtd":21
+				"Price":21
 			}
 		]
 	}
